@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "689546170579",
+    "firebase_url": "https://belphi-fa015.firebaseio.com",
+    "project_id": "belphi-fa015",
+    "storage_bucket": "belphi-fa015.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689546170579:android:a4fdac5f15a071dc1d4426",
+        "android_client_info": {
+          "package_name": "pahang.flutter.mlkit.pahang_flutter_ml_kit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689546170579-g7gi63nsolcrojc0ajkdhp8i5t8oim0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyFJV9OSoQOPTN2p8O7CYcZq290NIHsJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689546170579-g7gi63nsolcrojc0ajkdhp8i5t8oim0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
